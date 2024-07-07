@@ -1,3 +1,3 @@
-# JS-Class-projects ~(Mr khateri class)~ 
+# JS-Class-projects **(Mr khateri class)** 
 
 ## develop FrontEnd class projects *(JavaScript!)*

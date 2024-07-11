@@ -1,0 +1,6 @@
+ my first js error:
+ inpage.js:247 Uncaught (in promise) 
+TypeError: Cannot read properties of null (reading 'type')
+    at Un.<anonymous> (inpage.js:247:177363)
+    at Generator.next (<anonymous>)
+    at ae (inpage.js:247:176251)

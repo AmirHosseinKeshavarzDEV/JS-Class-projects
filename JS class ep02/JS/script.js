@@ -17,9 +17,11 @@ console.log(typeof script3);
 
 // additionally Number variable in js
 
-var X = "2006";
+let X = false;
 
-var X = 2005;
+const Y = true;
 
-console.log(X);
+// const Z = X === Y
+
+console.log(typeof Y);
 // alert(X * Y)
